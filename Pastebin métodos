@@ -2,12 +2,12 @@
 <html lang="pt">
 <head>
   <meta charset="UTF-8">
-  <title>pastebin</title>
+  <title>pastebin.com</title>
 
   <!-- Open Graph para Discord/Redes Sociais -->
   <meta property="og:title" content="pastebin">
   <meta property="og:description" content="Metodos atualizados">
-  <meta property="og:image" content="https://imgur.com/a/nzHHY4e">
+  <meta property="og:image" content="https://i.imgur.com/7gCjfLd.jpeg">
   <meta property="og:url" content="https://www.roblox.com/share?code=8dc4c31f08e64049813f7d9a46c50f28&type=Server">
 
   <!-- Twitter Card (funciona em outros lugares também) -->
