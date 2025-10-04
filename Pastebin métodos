@@ -5,17 +5,17 @@
   <title>pastebin.com</title>
 
   <!-- Open Graph para Discord/Redes Sociais -->
-  <meta property="og:title" content="pastebin">
-  <meta property="og:description" content="Metodos atualizados">
+  <meta property="og:title" content="metodos atualizado">
+  <meta property="og:description" content="Clique aqui para acessar o conteúdo completo de forma rápida e prática.">
   <meta property="og:image" content="https://i.imgur.com/7gCjfLd.jpeg">
   <meta property="og:url" content="https://www.roblox.com/share?code=8dc4c31f08e64049813f7d9a46c50f28&type=Server">
 
-  <!-- Twitter Card (funciona em outros lugares também) -->
+  <!-- Twitter Card (opcional) -->
   <meta name="twitter:card" content="summary_large_image">
 </head>
 <body>
   <p>Se não abrir no Discord, clique aqui: 
-    <a href="qhttps://www.roblox.com/share?code=8dc4c31f08e64049813f7d9a46c50f28&type=Server">Acessar conteúdo</a>
+    <a href="https://www.roblox.com/share?code=8dc4c31f08e64049813f7d9a46c50f28&type=Server">Acessar conteúdo</a>
   </p>
 </body>
 </html>
