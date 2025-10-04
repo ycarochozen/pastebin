@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+  <meta charset="UTF-8">
+  <title>pastebin</title>
+
+  <!-- Open Graph para Discord/Redes Sociais -->
+  <meta property="og:title" content="pastebin">
+  <meta property="og:description" content="Metodos atualizados">
+  <meta property="og:image" content="https://imgur.com/a/nzHHY4e">
+  <meta property="og:url" content="https://www.roblox.com/share?code=8dc4c31f08e64049813f7d9a46c50f28&type=Server">
+
+  <!-- Twitter Card (funciona em outros lugares também) -->
+  <meta name="twitter:card" content="summary_large_image">
+</head>
+<body>
+  <p>Se não abrir no Discord, clique aqui: 
+    <a href="qhttps://www.roblox.com/share?code=8dc4c31f08e64049813f7d9a46c50f28&type=Server">Acessar conteúdo</a>
+  </p>
+</body>
+</html>
